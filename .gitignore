@@ -1,4 +1,4 @@
-# Ignore incoming data
+# Ignore any potential data in folder for git
 data/*
 # Except example.xml for data folder to exist.
 # NOTE: example.xml is NOT aplliciable to map.
