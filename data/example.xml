@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPixel.png">
+	<!-- Created with Sprite Sheet JSON to XML 1.0, made by SanjarDev -->
+	<!-- https://github.com/sanjar-dev/SpriteSheetJSONtoXML -->
+	<SubTexture name="BF DOWN MISS instance 0" x="0" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN MISS instance 1" x="0" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN MISS instance 2" x="85" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN MISS instance 3" x="85" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN MISS instance 4" x="85" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN MISS instance 5" x="85" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN MISS instance 6" x="85" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN MISS instance 7" x="85" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN MISS instance 8" x="85" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN MISS instance 9" x="85" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN MISS instance 10" x="85" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN MISS instance 11" x="85" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN MISS instance 12" x="85" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN NOTE instance 0" x="170" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN NOTE instance 1" x="170" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN NOTE instance 2" x="255" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN NOTE instance 3" x="255" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN NOTE instance 4" x="255" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN NOTE instance 5" x="255" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN NOTE instance 6" x="255" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN NOTE instance 7" x="255" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN NOTE instance 8" x="255" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN NOTE instance 9" x="255" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN NOTE instance 10" x="255" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN NOTE instance 11" x="255" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN NOTE instance 12" x="255" y="0" width="85" height="85"/>
+	<SubTexture name="BF DOWN NOTE instance 13" x="255" y="0" width="85" height="85"/>
+	<SubTexture name="BF IDLE instance 0" x="340" y="0" width="85" height="85"/>
+	<SubTexture name="BF IDLE instance 1" x="340" y="0" width="85" height="85"/>
+	<SubTexture name="BF IDLE instance 2" x="0" y="85" width="85" height="85"/>
+	<SubTexture name="BF IDLE instance 3" x="0" y="85" width="85" height="85"/>
+	<SubTexture name="BF IDLE instance 4" x="85" y="85" width="85" height="85"/>
+	<SubTexture name="BF IDLE instance 5" x="85" y="85" width="85" height="85"/>
+	<SubTexture name="BF IDLE instance 6" x="170" y="85" width="85" height="85"/>
+	<SubTexture name="BF IDLE instance 7" x="170" y="85" width="85" height="85"/>
+	<SubTexture name="BF IDLE instance 8" x="255" y="85" width="85" height="85"/>
+	<SubTexture name="BF IDLE instance 9" x="255" y="85" width="85" height="85"/>
+	<SubTexture name="BF IDLE instance 10" x="255" y="85" width="85" height="85"/>
+	<SubTexture name="BF IDLE instance 11" x="255" y="85" width="85" height="85"/>
+	<SubTexture name="BF IDLE instance 12" x="255" y="85" width="85" height="85"/>
+	<SubTexture name="BF IDLE instance 13" x="255" y="85" width="85" height="85"/>
+	<SubTexture name="BF LEFT MISS instance 0" x="340" y="85" width="85" height="85"/>
+	<SubTexture name="BF LEFT MISS instance 1" x="340" y="85" width="85" height="85"/>
+	<SubTexture name="BF LEFT MISS instance 2" x="0" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT MISS instance 3" x="0" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT MISS instance 4" x="0" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT MISS instance 5" x="0" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT MISS instance 6" x="0" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT MISS instance 7" x="0" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT MISS instance 8" x="0" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT MISS instance 9" x="0" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT MISS instance 10" x="0" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT MISS instance 11" x="0" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT MISS instance 12" x="0" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT NOTE instance 0" x="85" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT NOTE instance 1" x="85" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT NOTE instance 2" x="170" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT NOTE instance 3" x="170" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT NOTE instance 4" x="170" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT NOTE instance 5" x="170" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT NOTE instance 6" x="170" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT NOTE instance 7" x="170" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT NOTE instance 8" x="170" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT NOTE instance 9" x="170" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT NOTE instance 10" x="170" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT NOTE instance 11" x="170" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT NOTE instance 12" x="170" y="170" width="85" height="85"/>
+	<SubTexture name="BF LEFT NOTE instance 13" x="170" y="170" width="85" height="85"/>
+	<SubTexture name="BF RIGHT MISS instance 0" x="255" y="170" width="85" height="85"/>
+	<SubTexture name="BF RIGHT MISS instance 1" x="255" y="170" width="85" height="85"/>
+	<SubTexture name="BF RIGHT MISS instance 2" x="340" y="170" width="85" height="85"/>
+	<SubTexture name="BF RIGHT MISS instance 3" x="340" y="170" width="85" height="85"/>
+	<SubTexture name="BF RIGHT MISS instance 4" x="340" y="170" width="85" height="85"/>
+	<SubTexture name="BF RIGHT MISS instance 5" x="340" y="170" width="85" height="85"/>
+	<SubTexture name="BF RIGHT MISS instance 6" x="340" y="170" width="85" height="85"/>
+	<SubTexture name="BF RIGHT MISS instance 7" x="340" y="170" width="85" height="85"/>
+	<SubTexture name="BF RIGHT MISS instance 8" x="340" y="170" width="85" height="85"/>
+	<SubTexture name="BF RIGHT MISS instance 9" x="340" y="170" width="85" height="85"/>
+	<SubTexture name="BF RIGHT MISS instance 10" x="340" y="170" width="85" height="85"/>
+	<SubTexture name="BF RIGHT MISS instance 11" x="340" y="170" width="85" height="85"/>
+	<SubTexture name="BF RIGHT MISS instance 12" x="340" y="170" width="85" height="85"/>
+	<SubTexture name="BF RIGHT NOTE instance 0" x="0" y="255" width="85" height="85"/>
+	<SubTexture name="BF RIGHT NOTE instance 1" x="0" y="255" width="85" height="85"/>
+	<SubTexture name="BF RIGHT NOTE instance 2" x="85" y="255" width="85" height="85"/>
+	<SubTexture name="BF RIGHT NOTE instance 3" x="85" y="255" width="85" height="85"/>
+	<SubTexture name="BF RIGHT NOTE instance 4" x="85" y="255" width="85" height="85"/>
+	<SubTexture name="BF RIGHT NOTE instance 5" x="85" y="255" width="85" height="85"/>
+	<SubTexture name="BF RIGHT NOTE instance 6" x="85" y="255" width="85" height="85"/>
+	<SubTexture name="BF RIGHT NOTE instance 7" x="85" y="255" width="85" height="85"/>
+	<SubTexture name="BF RIGHT NOTE instance 8" x="85" y="255" width="85" height="85"/>
+	<SubTexture name="BF RIGHT NOTE instance 9" x="85" y="255" width="85" height="85"/>
+	<SubTexture name="BF RIGHT NOTE instance 10" x="85" y="255" width="85" height="85"/>
+	<SubTexture name="BF RIGHT NOTE instance 11" x="85" y="255" width="85" height="85"/>
+	<SubTexture name="BF RIGHT NOTE instance 12" x="85" y="255" width="85" height="85"/>
+	<SubTexture name="BF RIGHT NOTE instance 13" x="85" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP MISS instance 0" x="170" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP MISS instance 1" x="170" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP MISS instance 2" x="255" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP MISS instance 3" x="255" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP MISS instance 4" x="255" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP MISS instance 5" x="255" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP MISS instance 6" x="255" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP MISS instance 7" x="255" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP MISS instance 8" x="255" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP MISS instance 9" x="255" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP MISS instance 10" x="255" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP MISS instance 11" x="255" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP MISS instance 12" x="255" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP NOTE instance 0" x="340" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP NOTE instance 1" x="340" y="255" width="85" height="85"/>
+	<SubTexture name="BF UP NOTE instance 2" x="0" y="340" width="85" height="85"/>
+	<SubTexture name="BF UP NOTE instance 3" x="0" y="340" width="85" height="85"/>
+	<SubTexture name="BF UP NOTE instance 4" x="0" y="340" width="85" height="85"/>
+	<SubTexture name="BF UP NOTE instance 5" x="0" y="340" width="85" height="85"/>
+	<SubTexture name="BF UP NOTE instance 6" x="0" y="340" width="85" height="85"/>
+	<SubTexture name="BF UP NOTE instance 7" x="0" y="340" width="85" height="85"/>
+	<SubTexture name="BF UP NOTE instance 8" x="0" y="340" width="85" height="85"/>
+	<SubTexture name="BF UP NOTE instance 9" x="0" y="340" width="85" height="85"/>
+	<SubTexture name="BF UP NOTE instance 10" x="0" y="340" width="85" height="85"/>
+	<SubTexture name="BF UP NOTE instance 11" x="0" y="340" width="85" height="85"/>
+	<SubTexture name="BF UP NOTE instance 12" x="0" y="340" width="85" height="85"/>
+	<SubTexture name="BF UP NOTE instance 13" x="0" y="340" width="85" height="85"/>
+</TextureAtlas>
