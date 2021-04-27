@@ -73,5 +73,5 @@ with Image.new(imgMode, imgSize, imgFill) as img:
     img.save(imgName.replace('.png', '-map.png'), "PNG")
     success("File saved as " + imgName.replace('.png', '-map.png') + ".\n")
     message("Credits not required, but greatly appriciated!")
-    message(col.BOLD+metaName+" "+metaVersion+" by "+metaAuthor+"\n")
+    message(col.BOLD+metaName+" "+metaVersion+" by "+metaAuthor+"\n"+col.ENDC)
     message(col.OKCYAN+metaLink+col.ENDC)
