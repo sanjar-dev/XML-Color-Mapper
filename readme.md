@@ -1,6 +1,6 @@
 # Sparrow XML Sprite Sheet Bound Mapper
 
-A little tool to make your life a little easier with figuring out bounds of .xml files in your Friday Night Funkin' mod.
+A little tool to make your life a little easier with figuring out bounds :rage2: of .xml files in your Friday Night Funkin' mod.
 
 **NOTE:** `example.xml` is not viable to map.
 
