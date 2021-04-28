@@ -10,20 +10,13 @@ configur = ConfigParser()
 configur.read('config.ini')
 
 # FORMATTING
-class col:
-    OKGREEN = '\033[92m'
-    OKCYAN = '\033[96m'
-    FAIL = '\033[91m'
-    ENDC = '\033[0m'
-    BOLD = '\033[1m'
-    HEADER = '\033[95m'
 def message(msg):
     print("• " + str(msg))
 def failed(msg):
-    print(col.FAIL + "✗ " + str(msg) + col.ENDC)
+    print("✗ " + str(msg))
     exit()
 def success(msg):
-    print(col.OKGREEN + "✓ " + str(msg) + col.ENDC)
+    print("✓ " + str(msg))
 def getColorRandom():
     randHex = hex(randint(60, 220))[2:]
     return str(randHex).zfill(2)
@@ -73,5 +66,5 @@ with Image.new(imgMode, imgSize, imgFill) as img:
     img.save(imgName.replace('.png', '-map.png'), "PNG")
     success("File saved as " + imgName.replace('.png', '-map.png') + ".\n")
     message("Credits not required, but greatly appriciated!")
-    message(col.BOLD+metaName+" "+metaVersion+" by "+metaAuthor+"\n"+col.ENDC)
-    message(col.OKCYAN+metaLink+col.ENDC)
+    message(metaName+" "+metaVersion+" by "+metaAuthor+"\n")
+    message(metaLink)
